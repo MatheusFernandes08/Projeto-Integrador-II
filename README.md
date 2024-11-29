@@ -1,2 +1,7 @@
-# Projeto-Integrador-II
-Projeto Integrador Transdisciplinar em Engenharia de Software II, desenvolvido na Universidade Cruzeiro do Sul. O atual projeto integrador, tem como objetivo aprofundar nas temáticas e nas práticas realizadas no Projeto Integrador Transdisciplinar em Engenharia de Software I, onde foi criado uma loja virtual em forma de APP para vendas de cupcakes.
+# CupCake MF
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
